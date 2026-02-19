@@ -1,0 +1,13 @@
+
+Walmart Sales Forecasting Report
+
+Dataset: Walmart Train.csv
+Model Used: Exponential Smoothing
+Forecast Horizon: 6 Months
+
+MAE: 30498311.407346193
+MAPE: 14.463327387966668
+
+Conclusion:
+The model captures trend and seasonality effectively and
+can be used for demand planning and inventory decisions.
